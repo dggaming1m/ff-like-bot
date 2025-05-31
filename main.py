@@ -9,7 +9,7 @@ import os
 import time
 
 # Load from environment variables
-BOT_TOKEN = os.getenv("8069913528:AAFkDy1BfsBbi1tieMWtZi1sRRJWbQiThIA")
+BOT_TOKEN = os.getenv("8069913528:AAFbqm92sQOVvPDuEvtfwKAwFoBIrjkqwbU")
 MONGO_URI = os.getenv("mongodb+srv://dggaming:dggaming@cluster0.qnfxnzm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 SHORTNER_API_KEY = os.getenv("0b3be11de98ce79a01b780153eaca00c1927c157")
 VERIFY_DOMAIN = os.getenv("https://ff-like-bot-3n6j.onrender.com")
